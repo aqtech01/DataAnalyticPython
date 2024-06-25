@@ -1,7 +1,5 @@
 
-def greetings():
-    print("Welcome to Sparta! ")
+def greetings(n):
+    print(f"Welcome to {n}! ")
 
 
-if __name__ == "__main__":
-    greetings()
